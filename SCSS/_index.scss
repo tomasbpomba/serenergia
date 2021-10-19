@@ -1,0 +1,23 @@
+@import "index";
+
+.seccion_Primaria {
+    background: #2193b0;
+    background: -webkit-linear-gradient(to right, #2193b0, #6dd5ed);
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+    font-family: 'Amatic SC', cursive;
+    font-size: 2rem;
+    line-height: 1.2;
+    text-align: center;
+  }
+  .seccion_Secundaria {
+    background-color: white;
+    font-size: 35px;
+    font-family: 'Amatic SC', cursive;
+  }
+  .seccion_Terciaria {
+    background-color: white;
+    padding: 2em;
+    background: -webkit-linear-gradient(to right, #2193b0, #6dd5ed);
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+    height: 70vh;
+  }

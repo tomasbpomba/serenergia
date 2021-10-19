@@ -1,0 +1,43 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Amatic SC', cursive;
+  background: -webkit-linear-gradient(to right, #2193b0, #6dd5ed);
+  background: linear-gradient(to right, #2193b0, #6dd5ed);
+  line-height: 100px;
+  margin: 0;
+  padding: 10px;
+  font-size: 20px;
+  height: 15vh;
+.navegacion li {
+  text-align: left;
+  list-style: none;
+  list-style-type: none;
+  display: inline-block;
+  font-family: 'Amatic SC', cursive;
+  a {
+    color: black;
+    font-size: 1 rem;
+    padding: 2px;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Amatic SC', cursive;
+    }
+  }
+}
+.ahorra1 {
+  margin: 4em;
+  color: white;
+  float: left;
+  background: white;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-family: 'Amatic SC',cursive;
+  margin: 1em;
+  animation-duration: 3s;
+  animation-name: slidein;
+}
